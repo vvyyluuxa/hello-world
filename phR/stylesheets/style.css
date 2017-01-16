@@ -1,0 +1,16 @@
+*{
+ margin:0;
+ padding:0;
+ background-repeat:no-repeat;
+}
+body{
+ font-family:arial,helvetica,sans-serif;
+ color:#888;
+ background-color:white;
+ font-size:small;
+ margin-top:100px;
+ text-align:center;
+ background-image:url(z-background2.gif);
+ background-repeat:repeat-y;
+ background-position:center top;
+}
